@@ -32,7 +32,3 @@ If you have a live server installed (e.g., Visual Studio Code’s Live Server ex
 ![Screenshot from 2024-11-10 16-19-24](https://github.com/user-attachments/assets/c7c2858c-24cc-4bdd-a85e-11144cffa896)
 ![Screenshot from 2024-11-10 16-19-28](https://github.com/user-attachments/assets/5c19eda8-738d-4709-99b2-e8b35d1f64ee)
 ![Screenshot from 2024-11-10 16-19-55](https://github.com/user-attachments/assets/0d69b26d-bb86-4d63-bb25-32b9c6641574)
-
-### Assets
-Vector Design : https://www.freepik.com/vectors/night-sea'
-Website created by ALPHI
